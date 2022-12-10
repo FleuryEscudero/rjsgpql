@@ -9,7 +9,7 @@
     "author": "Fleury Escudero",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-graphql": "^0.8.0",
         "graphiql": "^0.13.0",
         "graphql": "^14.3.1",
